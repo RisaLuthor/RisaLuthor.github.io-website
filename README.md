@@ -9,3 +9,7 @@ Make an HTML website and publish it to Github Pages
 <li>Edit the files on the gh-pages branch</li>
 <li>Wait for the updates to take and be deployed</li>
 <li>View site: https://username.github.io/website</li>
+<ul>  
+
+<h2>How does this work? </h2>
+  
