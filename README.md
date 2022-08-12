@@ -1,7 +1,7 @@
 # RisaLuthor.github.io-website
 Make an HTML website and publish it to Github Pages
 
-<title> Setup: </title>
+<h2> Setup: </h2>
 <ul>
 <li>Create a Github account</li>
 <li>Fork this repository to copy it to your account, i.e. github/username/website</li>
